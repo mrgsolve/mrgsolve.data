@@ -1,0 +1,13 @@
+Package: mrgsolve.data
+Type: Package
+Title: Validate Inputs for mrgsolve
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Functions to check and validate input data
+Imports: dplyr
+Suggests: testthat
+Encoding: UTF-8
+License: GPL (>=2)
+Roxygen: list(markdown = TRUE)
+LazyData: true
